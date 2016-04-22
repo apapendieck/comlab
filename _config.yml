@@ -1,6 +1,4 @@
 ---
-
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 timezone: null
