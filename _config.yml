@@ -9,7 +9,7 @@ highlighter: pygments
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /comlab ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
