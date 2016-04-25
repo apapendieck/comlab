@@ -2,7 +2,7 @@
 title: "Resources"
 bg: "yellow"
 color: "white"
-fa-icon: pencil
+fa-icon: book
 ---
 
 ###$ Guidance and examples
