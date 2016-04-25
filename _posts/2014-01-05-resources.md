@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: '#F2A900'
+bg: 'purple'
 color: '#F2A900'
 fa-icon: pencil
 ---
