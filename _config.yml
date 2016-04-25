@@ -42,7 +42,7 @@ kramdown:
 # Prose configuration
 prose:
   media: "comlab/img/"
-  siteurl: "comlab/"
+  siteurl: "http://apapendieck.github.io/comlab/"
   metadata:
     _posts:
       - name: "layout"
