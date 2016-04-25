@@ -41,7 +41,7 @@ kramdown:
 
 # Prose configuration
 prose:
-  media: "img/"
+  media: "comlab/img/"
   siteurl: "comlab/"
   metadata:
     _posts:
