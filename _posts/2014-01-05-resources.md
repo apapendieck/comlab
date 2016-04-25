@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: "yellow"
+bg: "darkb"
 color: "white"
 fa-icon: book
 ---
