@@ -33,12 +33,12 @@ colors:
   white: '#FFFFFF'
   orange: '#BF5700'
   gray: '#333F48'
-  blue: '#005F86'
+  darkb: '#005F86'
   green: '#43695B'
   yellow: '#F2A900'
   brown: '#382F2D'
   beige: '#D6D2C4'
-  ltblue: '#E8EAF6'
+  lightb: '#E8EAF6'
   
 kramdown:
   auto_ids:  false
