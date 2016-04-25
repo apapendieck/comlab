@@ -39,3 +39,33 @@ colors:
 kramdown:
   auto_ids:  false
 
+# Prose configuration
+prose:
+  media: "img"
+  siteurl: "http://apapendieck.github.io/comlab/"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          value: "insert title here"
+      - name: "description"
+        field:
+          label: "meta-description"
+          element: "text"
+          value: "meta-description"
+      - name: "tags"
+        field:
+          label: "tags"
+          element: "text"
+          value: "tags"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          value: "insert title here"
