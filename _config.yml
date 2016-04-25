@@ -10,6 +10,7 @@ highlighter: pygments
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: /comlab ## disables post output
+baseurl: "http://apapendieck.github.io/comlab/"
 timezone: null
 lsi: false
 markdown: kramdown
