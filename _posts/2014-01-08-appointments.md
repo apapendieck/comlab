@@ -1,7 +1,7 @@
 ---
   style: center
   title: "Appointments"
-  bg: '#382F2D'
+  bg: 'beige'
   color: white
   fa-icon: clock-o
 ---
