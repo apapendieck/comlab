@@ -38,6 +38,7 @@ colors:
   yellow: '#F2A900'
   brown: '#382F2D'
   beige: '#D6D2C4'
+  ltblue: '#E8EAF6'
   
 kramdown:
   auto_ids:  false
