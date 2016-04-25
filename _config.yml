@@ -13,7 +13,7 @@ permalink: /comlab ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 
 ### content configuration ###
@@ -41,8 +41,8 @@ kramdown:
 
 # Prose configuration
 prose:
-  media: "img"
-  siteurl: "http://apapendieck.github.io/comlab/"
+  media: "img/"
+  siteurl: "comlab/"
   metadata:
     _posts:
       - name: "layout"
