@@ -1,8 +1,8 @@
 ---
   style: center
   title: "Appointments"
-  bg: 'beige'
-  color: white
+  bg: "beige"
+  color: "white"
   fa-icon: clock-o
 ---
 #### Email, call or stop in!
