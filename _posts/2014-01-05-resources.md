@@ -18,7 +18,7 @@ published: true
 * [Masters Theses](https://utexas.instructure.com/courses/1154845/pages/poster-design-and-presentation-overview?module_item_id=8005165)
 * [Dissertations](https://utexas.instructure.com/courses/1154845/pages/poster-design-and-presentation-overview?module_item_id=8005165)
 
-#### Other resources for students at UT
+### Other resources for students at UT
 
 * [University Writing Center](http://uwc.utexas.edu)
 * [Sanger Learning Center](http://www.utexas.edu/ugs/slc/grad)
