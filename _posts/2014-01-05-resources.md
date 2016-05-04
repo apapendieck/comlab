@@ -1,6 +1,6 @@
 ---
 title: Resources
-bg: darkb
+bg: brown
 color: white
 "fa-icon": book
 published: true
