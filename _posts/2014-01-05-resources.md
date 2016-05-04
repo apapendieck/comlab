@@ -1,11 +1,12 @@
 ---
-title: "Resources"
-bg: "darkb"
-color: "white"
-fa-icon: book
+title: Resources
+bg: darkb
+color: white
+"fa-icon": book
+published: true
 ---
 
-###$ Guidance and examples
+### Guidance and examples
 
 * [Proposals](https://utexas.instructure.com/courses/1154845/pages/poster-design-and-presentation-overview?module_item_id=8005165)
   * NSF-style
